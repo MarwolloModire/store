@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/products/templates" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/users/templates" isTestSource="true" />
+    </content>
     <orderEntry type="jdk" jdkName="Store venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
